@@ -1,0 +1,11 @@
+# Eclipse workspace files
+.metadata/
+.plugins/
+bin/
+.settings/
+.classpath
+.project
+
+# Cache and temp files
+*.log
+*.tmp
